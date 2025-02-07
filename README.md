@@ -1,7 +1,6 @@
 ### Name: Jaak Krusell
 ### UniID: jakrus
 
-### Ei oska lahendada.
 
 Folder random files contains files without extention. Five of them are pictures and the rest does not contain any meaningful information.
 Your task is to detect detect picture files by opening them in binary mode and checking their [file signature](https://en.wikipedia.org/wiki/List_of_file_signatures). The first two bytes of JPEG files are ```FF 8D```.
